@@ -1,7 +1,7 @@
 import { Compass, MessageSquare, Map, Keyboard, EyeOff, Lock, Monitor, Code, Layers, Bookmark, ArrowRight, FileText, ScanText, Highlighter, FolderOpen, Search } from "lucide-react";
 import ChromeIcon from "../components/ChromeIcon";
-import featureImg1 from "@/images/professionalSRSS-1.png";
-import featureImg2 from "@/images/professionalSRSS-4.png";
+import featureImg1 from "@/images/professionalSRSS-7.png";
+import featureImg2 from "@/images/professionalSRSS-6.png";
 import featureImg3 from "@/images/professionalSRSS-2.png";
 import featureImg4 from "@/images/professionalSRSS-5.png";
 import featureImg5 from "@/images/professionalSRSS-3.png";
