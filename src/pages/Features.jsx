@@ -83,7 +83,7 @@ const detailedFeatures = [
     title: "AI Conversation Navigation",
     description: "Long AI chats become instantly navigable. SkimRoute detects conversation structure across major AI platforms and generic chatbot-style pages.",
     icon: MessageSquare,
-    image: featureImg1,
+    image: featureImg6,
     details: [
       "Supports ChatGPT, Claude, Gemini, Perplexity, Copilot, Grok, GitHub Copilot web, and more",
       "Detects assistant/user turns, final answers, revised answers, summaries, and topic changes",
@@ -94,7 +94,7 @@ const detailedFeatures = [
     title: "Keyboard-First Shortcuts",
     description: "Power through content without reaching for the mouse. Two shortcuts cover the main navigation flow across web pages, search results, AI chats, and PDFs.",
     icon: Keyboard,
-    image: featureImg2,
+    image: featureImg7,
     details: [
       "Alt+J / Option+J: jump to the best useful section",
       "Alt+N / Option+N: move to the next important section",
