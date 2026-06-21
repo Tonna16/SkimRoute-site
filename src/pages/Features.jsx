@@ -34,7 +34,7 @@ const detailedFeatures = [
     title: "Local Section Find",
     description: "Use the popup or sidebar search box to find the part of a page that mentions a topic, phrase, setup step, answer, or code block. SkimRoute searches locally against the mapped structure and can jump to the best match.",
     icon: Search,
-    image: featureImg2,
+    image: featureImg1,
     details: [
       "Search text stays in your browser and is not logged or uploaded",
       "Works on mapped web pages, AI chats, selectable PDFs, and OCR-backed PDFs",
@@ -45,7 +45,7 @@ const detailedFeatures = [
     title: "Search Result Navigation",
     description: "SkimRoute now understands search-result pages well enough to focus useful result areas. It still works best after you open a result, but it can help you get oriented on the results page itself.",
     icon: Map,
-    image: featureImg1,
+    image: featureImg2,
     details: [
       "Prioritizes AI Overview or direct answer blocks when they are available",
       "Can move through People Also Ask, sources, top results, videos, maps, shopping, and related searches",
