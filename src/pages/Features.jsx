@@ -5,6 +5,8 @@ import featureImg2 from "@/images/professionalSRSS-6.png";
 import featureImg3 from "@/images/professionalSRSS-2.png";
 import featureImg4 from "@/images/professionalSRSS-5.png";
 import featureImg5 from "@/images/professionalSRSS-3.png";
+import featureImg6 from "@/images/professionalSRSS-1.png";
+import featureImg7 from "@/images/professionalSRSS-4.png";
 import { CHROME_WEB_STORE_URL } from "@/lib/links";
 
 const coreFeatures = [
